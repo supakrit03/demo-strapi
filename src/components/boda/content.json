@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_boda_contents",
+  "info": {
+    "displayName": "Content",
+    "icon": "file"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    }
+  }
+}
